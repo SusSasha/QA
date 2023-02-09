@@ -23,7 +23,7 @@ font-weight:700
 #wrapper {
 padding:0 15px;
 height:100%;
-display:none
+display:flex
 }
 
 .content {
