@@ -9,3 +9,9 @@
 ![Без имени-1](https://user-images.githubusercontent.com/124851355/217710195-16a5008d-ce36-49bf-bca4-31f295f205e1.png)
 
 ![1619918838516](https://user-images.githubusercontent.com/124851355/217707470-61e27d14-0e27-4d73-901c-51834a0ed386.png)
+
+div {
+	background-color:red;
+	width: 100px;
+	height: 60px;
+}
