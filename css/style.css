@@ -8,12 +8,12 @@ height:100%
 }
 
 body {
-background-color:#4bdad5;
+background-color:#000000;
 margin:0 auto;
 text-align:center;
 width:100%;
 font-family:'Roboto Condensed',sans-serif;
-color:#fff;
+color:#000000;
 font-weight:300;
 line-height:28px;
 font-size:19px;
@@ -52,7 +52,7 @@ position:absolute;
 left:3px;
 top:2px;
 border-radius:100em;
-background:#FFC0CB;
+background:#ffffffb0;
 z-index:-1;
 transition:.3s
 }
